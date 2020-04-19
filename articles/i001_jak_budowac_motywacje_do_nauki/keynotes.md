@@ -1,6 +1,6 @@
 # Info
 Title: How to build motivation to learn.   
-Date: 18/04/2020  
+Date: 18/04/2020 (and 19/04/2020)  
 Link: https://wiecejnizlek.pl/budowac-motywacje-nauki/
 
 
@@ -16,8 +16,9 @@ Seeing personal value in accomplishing the goal. It can be feel of
 overall rise of competence, learning something practical and applicable in life or just
 to satisfy the curiosity.
 
-### Belief in effectiveness
-It is belief that your knowledge level is high enough to understand new part of knowledge.
+### Sense of effectiveness
+It is a sense (sensation?) that your knowledge level is high enough
+to understand new part of knowledge.
 
 ### Environment factor
 All other factors that have direct or indirect impact on our learning sessions.
@@ -38,8 +39,8 @@ Compare yourself to yourself from yesterday.
 4. You can learn something in many different ways. Alone or with someone, 
 book or lectures, etc. 
 
-### Belief in effectiveness - how?
-In order to increase belief in our effectiveness to learn we can use effective 
+### Sense of effectiveness - how?
+In order to increase sense of our effectiveness to learn we can use effective 
 learning techniques.
 There are couple of groups:  
 #### Selection of materials
@@ -87,27 +88,60 @@ It is not a race, everybody learns in different pace and fact that somebody is l
 faster does not mean he/she will understand the topic better. Sometimes (or even often!)
 it is better to slow down in order to achieve deep understanding.
 
-#### "Checking todos"
-Every 
-Każde małe zadanie odhaczone z powodzeniem w planie pracy, każdy w całości 
-przerzucony stosik fiszek z danego tematu, 
-każdy plik notatek, który uda Ci się od początku do końca przerobić – 
-jest zakończonym etapem. Jest sukcesem samym w sobie. Pamiętaj, 
-aby codziennie stawiać sobie małe, dzienne cele. Ich realizacja 
-zbuduje Twoje poczucie skuteczności w działaniu.
-
-Jeśli wyznaczysz sobie tylko jeden duży temat na cały dzień, 
-istnieje spora szansa, że nie uda Ci się go skończyć. Wtedy 
-pozostajesz z uczuciem wstydu i zniechęcenia. Jeśli natomiast 
-zakończysz 8 z 10 jego części, zadziała to zupełnie inaczej dzięki 
-poczuciu domknięcia. Oczywiście tak samo warto wtedy przemyśleć, czy 
-nie poświęcamy na naukę zbyt mało czasu i czy nie stworzymy sobie 
-zbyt dużych zaległości. 🙂
-
+#### Closing chunks during learning
+Every chunk of new knowledge, every repetition session, every prepared note is 
+a small success. Remember to set small, daily goals EVERYDAY. Completing them will
+build your sense of effectiveness. If you plan only one big topic for the whole day
+there is big chance that you could not accomplish it. It's better to say that you
+completed 8 out of 10 small chunks than you did not finish one big chunk.  
+It's also worth to consider if you dedicate enough time for your learning sessions.
 
 ### Hygiene of learning
+1. Breaks are vital, period. They are compulsory to make your brain sort out new knowledge.
+ 
+    It is also important to remember that learning session on which you learn 50% of the material
+is a big success! It is how our brains work. That is why we make repetitions, to change
+this 50% to 99%. Forgetting something is natural part of learning process so we have
+to have good attitude about it.
+
+2. Sleep. Good sleeping hygiene makes your learning sessions more effective. 
+When you sleep your brain is also trying to sort out new knowledge.
 
 ### Environment factor - how?
+#### Minimising your environment
+When you are learning - try to avoid everything that can drag your attention.
+Phone - airplane mode, web browser - only learning related tabs, earplugs or headphones 
+with quiet music (without lyric!).
+
+Need to communicate with others? Try use shared google document or some other app that is
+dedicated to the learning session.
+
+#### Environment help
+1. Learning together is double-edged sword. Be careful.  
+It is worthy to consider learning in the place where everybody is focused on their job.
+
+2. Ask your close relatives for support - especially those that understand your challenges.
+Small thing can be miraculous - make tea, turning down music in another room.
+
+#### Atmosphere during learning
+We should try to make learning pleasant. Tidy up your room, sort notes, open windows
+for fresh air, learn in your favourite and friendly place. As your learning partners pick
+people, who you feel comfortable with.
+
+#### Place to learn
+Keep everything you need to learn within the reach to always see what you have done and
+what you will have to do.
+Try to create your learning place in the way that it will both satisfy 
+and do not distract you.
+
+#### Collecting feedback
+If you can - collect feedback. If you have a teacher, mentor, colleagues. Try to find out
+if you are working in the right direction. Every assurance will increase your motivation
+and will serve as award for your well done job.
+
+### Summary 
+Set clear and real goals, think out if you have required skills and enough time to do it 
+and use your environment to your advantage. 
 
 # Quotes
 

@@ -4,6 +4,45 @@ Date: 18/04/2020 (and 19/04/2020)
 Link: https://wiecejnizlek.pl/budowac-motywacje-nauki/
 
 
+# Keypoints for kickoffs
+
+> Learn to learn something, not to pass exams.
+
+> Find value in both short and long term. What could you do if you knew those things?
+
+> Join with plans or dreams. It helps you to become who?
+
+> Will this increase my competences?
+
+> How I want to learn it? From book, talking, make presentation, other?
+
+> Prepare materials. Is it relevant to the goal?
+
+> Divide into smaller chunks. 
+
+> Set smaller chunks in time with some deadline. Remember about rest, emergency and repetition days.
+> Assign specific date to specific chunk/chunks of knowledge.
+
+# Keypoints for process
+
+> Judge the progress.
+
+> Active repetition! Reach to long-memory.
+
+> Create notes, flashcards and open questions.
+
+> Every chunk of knowledge and every repetition is small success. Celebrate.
+
+> Breaks and good sleep are vital. 
+
+> Set phone to airplane mode, close unnecessary programs. Quite music without lyrics.
+
+> Ask relatives for support ("I am going to learn, please do not disturb me" kind of thing)
+
+> Have everything important in reach
+
+> Feedback. Try use knowledge in real life or talk about it with somebody who knows it.
+
 # Summary
 
 We should not read in order to pass some exam, but to learn something.  
@@ -125,7 +164,7 @@ Small thing can be miraculous - make tea, turning down music in another room.
 
 #### Atmosphere during learning
 We should try to make learning pleasant. Tidy up your room, sort notes, open windows
-for fresh air, learn in your favourite and friendly place. As your learning partners pick
+for fresh air, learn in your favourite and friendly place. For your learning partners pick
 people, who you feel comfortable with.
 
 #### Place to learn

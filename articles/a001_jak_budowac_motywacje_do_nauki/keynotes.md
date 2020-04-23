@@ -6,8 +6,6 @@ Link: https://wiecejnizlek.pl/budowac-motywacje-nauki/
 
 # Keypoints for kickoffs
 
-> Learn to learn something, not to pass exams.
-
 > Find value in both short and long term. What could you do if you knew those things?
 
 > Join with plans or dreams. It helps you to become who?
@@ -24,6 +22,8 @@ Link: https://wiecejnizlek.pl/budowac-motywacje-nauki/
 > Assign specific date to specific chunk/chunks of knowledge.
 
 # Keypoints for process
+
+> Learn to learn something, not to pass exams.
 
 > Judge the progress.
 

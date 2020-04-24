@@ -7,16 +7,16 @@ End of July.
 
 ### Divide into smaller chunks: 
 - [ ] Book
-    - [ ] Chapter 1
-        - [ ] Section 1
-        - [ ] Section 2
-        - [ ] Section 3
-    - [ ] Chapter 2
-        - [ ] Section 1
-        - [ ] Section 2
-        - [ ] Section 3
-        - [ ] Section 4
-        - [ ] Section 5
+    - [x] Chapter 1 - 24/04/20
+        - [x] Section 1 - 24/04/20
+        - [x] Section 2 - 24/04/20
+        - [x] Section 3 - 24/04/20
+    - [x] Chapter 2 - 24/04/20
+        - [x] Section 1 - 24/04/20
+        - [x] Section 2 - 24/04/20
+        - [x] Section 3 - 24/04/20
+        - [x] Section 4 - 24/04/20
+        - [x] Section 5 - 24/04/20
     - [ ] Chapter 3
         - [ ] Section 1
         - [ ] Section 2

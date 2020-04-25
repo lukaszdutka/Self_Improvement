@@ -35,7 +35,7 @@ Link: https://wiecejnizlek.pl/budowac-motywacje-nauki/
 
 > Breaks and good sleep are vital. 
 
-> Set phone to airplane mode, close unnecessary programs. Quite music without lyrics.
+> Set phone to airplane mode, close unnecessary programs. Quiet music without lyrics.
 
 > Ask relatives for support ("I am going to learn, please do not disturb me" kind of thing)
 

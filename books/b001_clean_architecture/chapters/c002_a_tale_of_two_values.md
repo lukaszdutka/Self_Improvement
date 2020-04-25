@@ -73,7 +73,12 @@ go back to code you wrote and deploy it again. Bad architecture.
 
 Q: Isn't it more infrastructure than architecture? 
 
+### Thoughts
 
+Programming to make money is like fishing from pond without thinking 
+about fish population. You can go as fast as you can and maybe get 
+more fish, but then it will die and you won't be able to fish anymore.  
+PSW is not restocking (zarybia) enough. :P
 
 ### Questions    
 - Does programmers most important job is to make machines 

@@ -5,7 +5,7 @@ they drop this idea.
 
 Structured programming allows modules to be recursively decomposed 
 into smaller, provable units. Each of those units can be divided into
-smaller funcions, ad infinitum.
+smaller functions, ad infinitum.
 
 > Testing shows the presence, not the absence, of bugs.
 

@@ -47,10 +47,6 @@ It is doubly important if you are software architect.
 If architecture is last priority, then system will become even more costly to develop,
 and eventually change will become impossible (not profitable).
 
-### Starting with the bricks: Programming paradigms
-
-Today, there are three programming paradigms.
-
 ### Tips
 
 You, as a software developer, have to think about architecture and push 
